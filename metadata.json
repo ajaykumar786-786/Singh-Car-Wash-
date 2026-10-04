@@ -1,0 +1,6 @@
+{
+  "name": "Singh Car Wash — Premium Car Care & Detailing Studio",
+  "description": "Singh Car Wash in Banga City, Punjab offers car washing, foam wash, steam wash, interior cleaning, detailing, protection and automotive accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Singh Car Wash | Complete Car Care Under One Roof",
+  "short_name": "SinghCarWash",
+  "description": "Singh Car Wash in Banga City, Punjab offers car washing, foam wash, steam wash, interior cleaning, detailing, protection and automotive accessories.",
+  "theme_color": "#0A0B0E",
+  "background_color": "#0A0B0E",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
